@@ -12,10 +12,10 @@ Há tanto perguntas de memorização das letra “a” e “b”, quanto pergunt
 
 
 Equipe:
-Sérgio Paz de Lira (professor orientador)
-Karinne Leticia Miguel Barbosa
-Rebeca Vitoria Tenorio da costa
-Raylane Luizi Macêdo de Souza
-Manoel Igor da Silva Arruda
+Sérgio Paz de Lira (professor orientador),
+Karinne Leticia Miguel Barbosa,
+Rebeca Vitoria Tenorio da costa,
+Raylane Luizi Macêdo de Souza,
+Manoel Igor da Silva Arruda,
 Arthur Marques da Silveira  
 
